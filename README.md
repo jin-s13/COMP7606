@@ -228,25 +228,7 @@ If you encounter any questions about the MMPose, please feel free to raise an is
 For any questions about the assignment, please contact the TA (Sheng Jin) via email (js20@connect.hku.hk). 
 
 
-
-## Marking Scheme (NEED DISCUSSION):
-
-The marking scheme has two parts, (1) the performance ranking (70% marks) and (2) the 4-page final report (30% marks): 
-
-1. For the performance ranking part (70%): TA will rank the mAP. The students who obtain higher mAP will get higher marks.
-   (1) Rank top-10% will get the full mark of this part.
-   (2) Rank 10%-20% will get 90% mark of this part.
-   (3) Rank 20%-30% will get 80% mark of this part.
-   (4) Rank 30%-40% will get 70% mark of this part.
-   (5) Rank 40%-50% will get 60% mark of this part.
-   (6) Others will get 50% mark of this part.
-
-2. For the 4-page final report part (30%):
-   The marks will be given mainly based on the richness of the experiments & analysis.
-   (1) Rich experiments + detailed analysis: 90%-100% mark of this part.
-   (2) Reasonable number of experiments + analysis: 70%-80% mark of this part.
-   (3) Basic analysis: 50%-60% mark of this part.
-   (4) Not sufficient analysis: lower than 50%.
+## Marking Scheme (TBD)
 
 
 ## Reference
